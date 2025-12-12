@@ -16,7 +16,7 @@ export default function HeroSection() {
 
       <div className="flex justify-end">
         <img
-          src=".\src\assets\meeting.svg"
+          src="/meeting.svg"
           alt="team"
           className="rounded-xl w-64 md:w-80 object-cover"
         />
